@@ -1,0 +1,51 @@
+{
+    "MS001":{
+        "Machine name":"Hydralic Machine",
+        "Next maintenance date":"2025-06-12",
+        "Status":"Maintained",
+        "Note":"Performed on 2025-05-25",
+        "Day Remaining":27.0
+    },
+    "MS002":{
+        "Machine name":"Hydralic Machine",
+        "Next maintenance date":"2025-06-12",
+        "Status":"Maintained",
+        "Note":"Performed on 2025-05-25",
+        "Day Remaining":27.0
+    },
+    "MS003":{
+        "Machine name":"Pump Calibrator",
+        "Next maintenance date":"2025-06-12",
+        "Status":"Maintained",
+        "Note":"Performed on 2025-05-25",
+        "Day Remaining":27.0
+    },
+    "MS004":{
+        "Machine name":"Lathe Machine",
+        "Next maintenance date":"2025-05-22",
+        "Status":"Maintenance in progress...",
+        "Note":"Finish by 2025-05-28",
+        "Day Remaining":2.0
+    },
+    "MS005":{
+        "Machine name":"Lathe Cnc Machine",
+        "Next maintenance date":"2025-06-12",
+        "Status":"New",
+        "Note":"",
+        "Day Remaining":27.0
+    },
+    "MS006":{
+        "Machine name":"Pump Calibrator",
+        "Next maintenance date":"2025-05-12",
+        "Status":"Maintained",
+        "Note":"Performed on 2025-05-25",
+        "Day Remaining":27.0
+    },
+    "MS008":{
+        "Machine name":"Hydraulic Pressure Calibrator",
+        "Next maintenance date":"2025-06-22",
+        "Status":"New",
+        "Note":"Machine installed at 2025-05-25",
+        "Day Remaining":null
+    }
+}
