@@ -1,5 +1,3 @@
-# Maintenance-Tracker
-Maintenance Tracker System (Python CLI + Pandas)
 # 🛠️ Maintenance Tracker System (Python CLI + Pandas)
 
 A command-line application for tracking industrial machine maintenance using Python and pandas. Designed for small factories or workshops to keep machine records updated, ensure timely maintenance, and prevent costly downtime.
@@ -19,13 +17,13 @@ A command-line application for tracking industrial machine maintenance using Pyt
 ---
 
 ## 📁 Project Structure
-maintenance_tracker/
-├── main.py # CLI entry point
-├── machine.py # MachineOperation class
-├── data/
-│ └── Machine List.json # Saved machine records
-├── README.md # This file
-└── requirements.txt # Python package dependencies
+maintenance_tracker/  
+├── main.py # CLI entry point  
+├── machine.py # MachineOperation class  
+├── data/  
+│    └── Machine List.json # Saved machine records  
+├── README.md # This file  
+└── requirements.txt # Python package dependencies  
 ---
 
 ## 💻 Requirements
@@ -40,7 +38,7 @@ pip install pandas
 ```
 
 🚀 How to Run
-From your terminal:
+From your terminal:  
 python main.py
 
 🧪 Sample Output
