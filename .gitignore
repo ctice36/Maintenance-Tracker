@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# IDE/editor configs (optional)
+.vscode/
+.idea/
+
+# Data output (optional — ignore saved machine data)
+data/*.json
+data/*.csv
+
+# Log files or debugging
+*.log
