@@ -18,12 +18,12 @@ class MachineOperation:
         except FileNotFoundError:
             print("File not found. Initialize empty DataFrame")
             self.machines = pd.DataFrame(
-                columns=["Machine ID", "Machine name", "Next maintenance date", "Status", "Note"])
+                columns=["Machine name", "Next maintenance date", "Status", "Note"])
 
         except ValueError:
             print("Invalid JSON format. Initialize empty DataFrame")
             self.machines = pd.DataFrame(
-                columns=["Machine ID", "Machine name", "Next maintenance date", "Status", "Note"])
+                columns=["Machine name", "Next maintenance date", "Status", "Note"])
 
         return self.machines
 
